@@ -46,4 +46,4 @@ elif zzz == "2":
                 ff+=1
 
 
-input("DONE")
+print("DONE")
